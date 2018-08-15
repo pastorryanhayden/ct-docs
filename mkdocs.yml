@@ -1,0 +1,9 @@
+site_name: 'Docs: Church Tools by Row & Table'
+pages:
+    - Home: index.md
+    - About: about.md
+    - Tools:
+      - Sites: sites.md
+      - Sermons: sermons.md
+      - Prayer: prayer.md
+theme: readthedocs
